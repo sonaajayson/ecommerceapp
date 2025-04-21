@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1008314854109",
+    "project_id": "ecomapp-97f0b",
+    "storage_bucket": "ecomapp-97f0b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008314854109:android:3f1a6d5573ca610f3c8934",
+        "android_client_info": {
+          "package_name": "com.example.ecommerceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008314854109-f3luc68endhmlf3f4v0u7p14skk0qo92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDhWRxGGgLFcYYlZc3o8WBdlmGTI_DFMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008314854109-f3luc68endhmlf3f4v0u7p14skk0qo92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
